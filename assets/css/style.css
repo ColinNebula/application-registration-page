@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #3d4b71;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    padding: 20px 30px;
+    background-color: #023047;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #ffffff;
+    margin: 0;
+    display: inline-block;
+}
+
+header h3 {
+    margin: 0;
+}
+
+header a {
+    text-decoration: none;
+    color: #fca148;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px 0;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+/* section elements start */
+section {
+    padding: 60px;
+}
+/* form elements begins */
+.form {
+    background-color:#f3aa50;
+    padding: 20px;
+    width: 900px;
+    color: #024e76;
+    border-style: solid;
+    border-width: 3px;
+    border-color:#024e76
+}
+
+form h3 {
+    font-size: 24px;
+    margin: 0;
+}
+
+form p {
+    margin: 15px 0 15px 0;
+}
+
+.form-input {
+    border: 1px solid #024e76;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.form label {
+    margin: 0 5px;
+}
+
+.form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+/* form element ends */
+
+/* footer element begins */
+footer {
+    background: #3d4b71;
+    width: 100%;
+    padding: 40px 30px;
+}
+
+footer h2 {
+    display: inline;
+    color:#f3aa50;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a {
+    color:#fca148
+}
+/* footer element ends */
