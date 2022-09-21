@@ -92,6 +92,10 @@ form p {
     font-size: 16px;
     cursor: pointer;
 }
+
+.form button:hover {
+    opacity: .8;
+}
 /* form element ends */
 
 /* footer element begins */
