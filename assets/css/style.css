@@ -85,11 +85,12 @@ form p {
 }
 
 .form button {
-    color: #fce138;
+    color: #fca148;
     background-color: #024e76;
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+    cursor: pointer;
 }
 /* form element ends */
 
