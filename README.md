@@ -1,4 +1,4 @@
-# application-registration-page
+# Application Registration Form
 
 ## Table of Contents
   * [Description](#description)
